@@ -18,5 +18,8 @@ class InitActivity : BaseActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityInitBinding.inflate(getLayoutInflater())
         setContentView(binding.root)
+
+
+
     }
 }
