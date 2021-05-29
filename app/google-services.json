@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395282420088",
+    "firebase_url": "https://anbu-stores-default-rtdb.firebaseio.com",
+    "project_id": "anbu-stores",
+    "storage_bucket": "anbu-stores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395282420088:android:6533d7e9f41e89fcb3788d",
+        "android_client_info": {
+          "package_name": "com.stores.anbu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395282420088-rsfncudceestvcrspb9fbb36kd65ob5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOkI4JNDY8cPTu-Nx26LtHYPX-aSE1CAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395282420088-rsfncudceestvcrspb9fbb36kd65ob5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
